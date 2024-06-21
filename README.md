@@ -21,8 +21,7 @@ git branch -M main
 ```
 
 ```
-git remote add origin https://github.com/sunnysavita10/myweatherbot.git
-
+git remote add origin https://github.com/Vishal-Desai17/Ecommerce_Chatbot.git
 ```
 
 ```
